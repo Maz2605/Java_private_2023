@@ -1,0 +1,2 @@
+1. Tìm phần tử xuất hiện nhiều nhất trong mảng số nguyên và xuất hiện bao nhiêu lần 
+2. Viết chương trình nhập vào 1 string, liệt kê các từ của nó và in các từ lên từng dòng.
